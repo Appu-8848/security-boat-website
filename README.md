@@ -1,8 +1,8 @@
 # SECURITY-BOAT
 <h2>E-commerce Website : PulsePalace</h2>
-<h3>
+<h4>
 In the dynamic landscape of e-commerce, delivering a flawless and engaging shopping experience is paramount. Our latest e-commerce website stands at the forefront of innovation, leveraging cutting-edge technologies to provide users with a seamless and visually appealing platform. Powered by Next.js 14, React, Node.js, and Tailwind CSS, this website is not just a marketplace; it's a showcase of modern web development expertise.<br>
-
+<hr>
 Key Features: <br>
 
 1. Next.js 14 - The Future of React:<br>
@@ -29,4 +29,4 @@ User Experience Highlights:<br>
    Tailwind CSS ensures that the website is fully responsive across various devices and screen sizes. Whether users are on desktops, tablets, or smartphones, the e-commerce experience remains consistent and visually appealing.<br>
 
 In summary, our e-commerce website, built with Next.js 14, React, Node.js, and Tailwind CSS, represents a harmonious blend of cutting-edge technologies aimed at delivering a top-tier online shopping experience. From a sleek and responsive design to high-performance backend functionalities, every aspect of the website is meticulously crafted to meet the demands of modern consumers. Explore the future of e-commerce with us and elevate your online shopping journey.<br>
-</h3>
+</h4>
