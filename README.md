@@ -4,6 +4,7 @@
 In the dynamic landscape of e-commerce, delivering a flawless and engaging shopping experience is paramount. Our latest e-commerce website stands at the forefront of innovation, leveraging cutting-edge technologies to provide users with a seamless and visually appealing platform. Powered by Next.js 14, React, Node.js, and Tailwind CSS, this website is not just a marketplace; it's a showcase of modern web development expertise.<br>
 
 Key Features: <br>
+
 1. Next.js 14 - The Future of React:<br>
    Harnessing the power of Next.js 14, our e-commerce site ensures lightning-fast performance and improved developer experience. The latest features in Next.js, combined with React, facilitate efficient code splitting, server-side rendering, and automatic image optimization, resulting in a responsive and performant application.<br>
 
